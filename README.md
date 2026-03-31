@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="qwen_llama.png" alt="figa" width="400"/>
+  <img src="llama_qwen.png" alt="figa" width="400"/>
 </p>
